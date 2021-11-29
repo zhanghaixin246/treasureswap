@@ -1,0 +1,9 @@
+**/node_modules/
+node_modules/*
+.idea/*
+.vscode/*
+test/*
+views/*
+###views/###
+test/clientTest.js
+###lib/configtxlator###

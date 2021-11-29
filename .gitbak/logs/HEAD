@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 1c4015bddcf58602f1c9b41d5201566fb30666e6 张恒 <zhangheng@trustslink.com> 1630477371 +0800	clone: from https://gitlab.trustslink.com/AOPROJS/nyl/treasureswap.git
+1c4015bddcf58602f1c9b41d5201566fb30666e6 36ce38970b71ac325ca17ba8bc136106b67f46ff 张恒 <zhangheng@trustslink.com> 1630477986 +0800	checkout: moving from master to demo
+36ce38970b71ac325ca17ba8bc136106b67f46ff 36ce38970b71ac325ca17ba8bc136106b67f46ff 张恒 <zhangheng@trustslink.com> 1630544486 +0800	checkout: moving from demo to feature_trans_test_0902_zh
+36ce38970b71ac325ca17ba8bc136106b67f46ff d104787e83564e44a93287028d8214731dda9b0b 张恒 <zhangheng@trustslink.com> 1630561432 +0800	commit: feat: trans test
